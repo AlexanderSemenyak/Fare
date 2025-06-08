@@ -1,3 +1,5 @@
+origin: https://github.com/moodmosaic/Fare
+
 Fare - [F]inite [A]utomata and [R]egular [E]xpressions
 ===================
 

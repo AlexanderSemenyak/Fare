@@ -1,4 +1,4 @@
-origin: https://github.com/moodmosaic/Fare
+origin: https://github.com/moodmosaic/Fare  (аналог regex - порт с java)
 
 Fare - [F]inite [A]utomata and [R]egular [E]xpressions
 ===================
